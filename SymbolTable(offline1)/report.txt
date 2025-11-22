@@ -1,0 +1,4 @@
+Quality of SDBM Hash Fuction: 0.142857
+Quality of DJB2 Hash Fuction: 0.0892857
+Quality of FNV1A Hash Fuction: 0.107143
+Quality of Murmur Hash Fuction: 0.142857
